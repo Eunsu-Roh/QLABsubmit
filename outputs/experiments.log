@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-01-26 23:48:36",
+  "config": {
+    "n_qubits": 8,
+    "n_layers": 5,
+    "topology": "linear",
+    "measurement_qubits": [
+      3,
+      4
+    ],
+    "learning_rate": 0.035,
+    "epochs": 260,
+    "loss_function": "focal"
+  },
+  "results": {
+    "final_accuracy": 1.0,
+    "final_loss": 0.03536564763635397,
+    "best_loss": 0.03466698620468378
+  }
+}
+======================================================================
+
+{
+  "timestamp": "2026-01-26 23:57:29",
+  "config": {
+    "n_qubits": 8,
+    "n_layers": 5,
+    "topology": "linear",
+    "measurement_qubits": [
+      3,
+      4
+    ],
+    "learning_rate": 0.035,
+    "epochs": 260,
+    "loss_function": "focal"
+  },
+  "results": {
+    "final_accuracy": 1.0,
+    "final_loss": 0.03536564763635397,
+    "best_loss": 0.03466698620468378
+  }
+}
+======================================================================
+
+{
+  "timestamp": "2026-01-27 00:00:15",
+  "config": {
+    "n_qubits": 8,
+    "n_layers": 5,
+    "topology": "linear",
+    "measurement_qubits": [
+      3,
+      4
+    ],
+    "learning_rate": 0.035,
+    "epochs": 260,
+    "loss_function": "focal"
+  },
+  "results": {
+    "final_accuracy": 1.0,
+    "final_loss": 0.03536564763635397,
+    "best_loss": 0.03466698620468378
+  }
+}
+======================================================================
+
+{
+  "timestamp": "2026-01-27 00:01:53",
+  "config": {
+    "n_qubits": 8,
+    "n_layers": 5,
+    "topology": "linear",
+    "measurement_qubits": [
+      3,
+      4
+    ],
+    "learning_rate": 0.035,
+    "epochs": 260,
+    "loss_function": "focal"
+  },
+  "results": {
+    "final_accuracy": 1.0,
+    "final_loss": 0.03536564763635397,
+    "best_loss": 0.03466698620468378
+  }
+}
+======================================================================
+
