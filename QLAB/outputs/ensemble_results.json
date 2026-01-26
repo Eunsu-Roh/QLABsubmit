@@ -1,0 +1,22 @@
+{
+  "best_seed": 42,
+  "best_accuracy": 1.0,
+  "best_loss": 0.4196488782763481,
+  "all_results": [
+    {
+      "seed": 42,
+      "accuracy": 1.0,
+      "loss": 0.4196488782763481
+    },
+    {
+      "seed": 123,
+      "accuracy": 1.0,
+      "loss": 0.4196488782763481
+    },
+    {
+      "seed": 789,
+      "accuracy": 1.0,
+      "loss": 0.4196488782763481
+    }
+  ]
+}

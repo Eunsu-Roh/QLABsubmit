@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "name": "qcnn_L3_lr0.02",
+      "config": {
+        "ansatz_type": "qcnn",
+        "n_layers": 3,
+        "lr": 0.02,
+        "measurement_qubits": [
+          5,
+          7
+        ]
+      },
+      "seeds": [
+        42
+      ],
+      "loocv_epochs": 40,
+      "loocv_acc_per_seed": [
+        0.875
+      ],
+      "mean_acc": 0.875,
+      "std_acc": 0.0
+    },
+    {
+      "name": "qcnn_L4_lr0.02",
+      "config": {
+        "ansatz_type": "qcnn",
+        "n_layers": 4,
+        "lr": 0.02,
+        "measurement_qubits": [
+          5,
+          7
+        ]
+      },
+      "seeds": [
+        42
+      ],
+      "loocv_epochs": 40,
+      "loocv_acc_per_seed": [
+        0.8125
+      ],
+      "mean_acc": 0.8125,
+      "std_acc": 0.0
+    }
+  ]
+}
